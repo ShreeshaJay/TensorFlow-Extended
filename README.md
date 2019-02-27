@@ -8,7 +8,7 @@ This is a public repository so there is no need to create an account to download
 
 To download via git from your preferred terminal application, type: 
 
-```git clone https://resources.oreilly.com/live-training/${COMPLETE URL}```
+```git clone https://resources.oreilly.com/live-training/tensorflow-extended```
 
 Welcome to our Live Training course for **TensorFlow Extended: Data Validation and Transform**. The second part of this training is titled **TensorFlow Extended: Model build, analysis, and serving**.
 
@@ -154,7 +154,7 @@ We've shared the same Dockerfile we use for our JupyterHub session in this repos
 You will need to have Docker installed on your system to create images and run containers. You can find the installation steps for all platforms on the company's [website](https://docs.docker.com/install/)
 .
 
-1) Clone the repository for the class either using the UI or your terminal (see above)..
+1) Clone the repository for the class either using the UI or your terminal (see above).
 
 2) Once you have Docker installed, type the following on your terminal to create a Docker image: `docker build -t NAME .` (replace `NAME`, here and in next step, with what you want to call it. Note the period)
 
