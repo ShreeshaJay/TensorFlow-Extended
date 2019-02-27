@@ -16,7 +16,7 @@ In this training, we will cover the following:
 
 ## TensorFlow Data Validation
 
-TensorFlow Data Validation (TFDV) is a library for exploring and validating machine learning data. It is designed to be highly scalable and to work well with TensorFlow and TensorFlow Extended (TFX).
+[TensorFlow Data Validation](https://github.com/tensorflow/data-validation) (TFDV) is a library for exploring and validating machine learning data. It is designed to be highly scalable and to work well with TensorFlow and TensorFlow Extended (TFX).
 
 TF Data Validation:
 
