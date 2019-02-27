@@ -1,1 +1,9 @@
-## Please list additional packages with version numbers
+apache-beam[gcp]==2.8.0
+numpy==1.14.5
+protobuf==3.6.0
+tensorflow==1.12.0
+tensorflow-data-validation==0.11.0
+tensorflow-metadata==0.9.0
+tensorflow-model-analysis==0.11.0
+tensorflow-serving-api==1.11.0
+tensorflow-transform==0.11.0
