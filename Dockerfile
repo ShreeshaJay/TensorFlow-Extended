@@ -27,6 +27,8 @@ COPY data /home/jovyan/data
 COPY assets /home/jovyan/assets
 COPY notebooks /home/jovyan/notebooks
 COPY solutions /home/jovyan/solutions
+COPY requirements.txt /home/jovyan/requirements.txt
+COPY README.md /home/jovyan/README.md
 
 # Allow user to write to directory
 USER root
