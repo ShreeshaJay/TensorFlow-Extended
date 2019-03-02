@@ -38,6 +38,7 @@ USER $NB_USER
 
 USER jovyan
 RUN . /opt/conda/bin/activate tfx_py27
+RUN pip2 install -r /home/jovyan/requirements.txt  
 RUN python2 -m pip install ipykernel
 RUN python2 -m ipykernel install --user
 # Expose the notebook port
