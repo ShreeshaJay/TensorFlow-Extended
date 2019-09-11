@@ -6,6 +6,12 @@ This project contains the Jupyter Notebooks and the associated Dockerfile for Ar
 
 This is a public repository so there is no need to create an account to download its contents. To download the source code from this page, click the 'Cloud' icon on the top right hand, above where the latest commit is detailed.
 
+It's recommended that you use [Google Colab](https://colab.research.google.com) to import the following notebooks located in the `notebooks` directory:
+
++ `V2_Part1_Data_Validation.ipynb`
++ `V2_Part2_Data_Transform.ipynb`
+
+
 To download via git from your preferred terminal application, type: 
 
 ```git clone https://resources.oreilly.com/live-training/tensorflow-extended```
