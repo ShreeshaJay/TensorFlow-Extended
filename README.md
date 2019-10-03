@@ -8,8 +8,10 @@ This is a public repository so there is no need to create an account to download
 
 It's recommended that you use [Google Colab](https://colab.research.google.com) to import the following notebooks located in the `notebooks` directory:
 
-+ `V2_Part1_Data_Validation.ipynb`
-+ `V2_Part2_Data_Transform.ipynb`
++ `notebooks/V2_Part1_Data_Validation.ipynb`
++ `notebooks/V2_Part2_Data_Transform.ipynb`
++ `notebooks/V2_Part3_Model_Build_Analysis.ipynb`
++ `notebooks/V2_Part4_TensorFlow_Serving.ipynb`
 
 
 To download via git from your preferred terminal application, type: 
