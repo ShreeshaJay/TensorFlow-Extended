@@ -1,5 +1,5 @@
 apache-beam[gcp]==2.8.0
-numpy==1.14.5
+numpy==1.22.0
 protobuf==3.6.0
 tensorflow==1.12.0
 tensorflow-data-validation==0.11.0
